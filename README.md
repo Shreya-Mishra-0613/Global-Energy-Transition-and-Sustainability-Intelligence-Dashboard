@@ -248,37 +248,12 @@ These interactions allow users to move from a global overview toward more detail
 
 ---
 
-# 📁 Project Structure
-
-```text
-Global-Energy-Transition-Climate-Impact-Dashboard/
-│
-├── data/
-│   ├── cleaned_energy_data.xlsx
-│   ├── cleaned_climate_data.xlsx
-│   └── integrated_dataset.xlsx
-│
-├── dashboard/
-│   └── Global_Energy_Transition_Dashboard.twbx
-│
-├── presentation/
-│   └── Project_Presentation.pptx
-│
-├── images/
-│   ├── dashboard1.png
-│   └── dashboard2.png
-│
-└── README.md
-```
-
----
-
 # 🌐 Live Dashboard
 
 The interactive dashboard is published on Tableau Public.
 
 🔗 **Tableau Public Dashboard:**  
-[Add your Tableau Public dashboard link here]
+[https://public.tableau.com/app/profile/shreya.mishra1905/viz/Global_Energy_Transition_Dashboard/GlobalEnergyTransitionDashboard?publish=yes]
 
 ---
 
